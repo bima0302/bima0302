@@ -1,6 +1,8 @@
-### Hello! I'm Bima Setyo.  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
+# Hello! I'm Bima Setyo.  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
+👨‍💻 Front-end Developer, Data Analyst, and Open Source Enthusiast.
+👨‍🎓 Brawijaya Univ. Computer Engineering.
 
-#### **What can I do?**
+## **What can I do?**
 In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
 
   [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
@@ -15,7 +17,7 @@ In recent years, I've been learning new technologies and languages. These are th
   [![QT Badge](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)]()
   [![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)]()
 
-#### **Let's Connect with Me. :)**
+## **Let's Connect with Me. :)**
 Say hi to me on social that I have.
 
   [![Portofolio Site Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://bimasetyo.vercel.app/)
