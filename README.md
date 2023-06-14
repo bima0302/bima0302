@@ -20,4 +20,5 @@ Say hi to me on social that I have.
   [![Portofolio Site Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://bimasetyo.com)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/bzizmza)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyusrisetyo/)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bzizmza)
+
+[![Bima's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzizmza)](https://github.com/anuraghazra/github-readme-stats)
