@@ -22,3 +22,4 @@ Say hi to me on social that I have.
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyusrisetyo/)
 
 [![Bima's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzizmza)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bzizmza?ext=contest)
