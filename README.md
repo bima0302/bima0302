@@ -5,16 +5,19 @@
 ## **What can I do?**
 In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
 [![Bima's Github most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=bzizmza&layout=compact&hide_progress=true)](http://github.com/bzizmza)
 
 ## **Let's Connect with Me. :)**
 Say hi to me on social that I have.
 
-[![Portofolio Site Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bimasetyo.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/bzizmza)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyusrisetyo/)
+[![Portofolio Site Badge](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://bimasetyo.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/bzizmza)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyusrisetyo/)
 
 [![Bima's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzizmza)](http://github.com/bzizmza)
 
