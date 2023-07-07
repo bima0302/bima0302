@@ -5,6 +5,8 @@
 ## **What can I do?**
 In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+
 [![Bima's Github most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=bzizmza&layout=compact&hide_progress=true)](http://github.com/bzizmza)
 
 ## **Let's Connect with Me. :)**
