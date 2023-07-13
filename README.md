@@ -1,5 +1,5 @@
 # Hello! I'm Bima Setyo.  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
-💻 Frontend Developer wannabe.<br>
+💻 Software Developer wannabe.<br>
 🎓 Brawijaya University, Computer Engineering.
 
 ## **What can I do?**
