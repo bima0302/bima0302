@@ -8,7 +8,7 @@ In recent years, I've been learning new technologies and languages. These are th
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 
-[![Bima's Github most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=bzizmza&layout=compact&hide_progress=true)](http://github.com/bzizmza)
+[![Bima's Github most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=bima0302&layout=compact&hide_progress=true)](http://github.com/bima0302)
 
 ## **Let's Connect with Me. :)**
 Say hi to me on social that I have.
@@ -17,6 +17,6 @@ Say hi to me on social that I have.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/bzizmza)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyusrisetyo/)
 
-[![Bima's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzizmza)](http://github.com/bzizmza)
+[![Bima's GitHub stats](https://github-readme-stats.vercel.app/api?username=bima0302)](http://github.com/bzizmza)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/bzizmza?theme=light&font=Noto%20Sans)](https://leetcode.com/bzizmza)
