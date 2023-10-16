@@ -19,4 +19,4 @@ Say hi to me on social that I have.
 
 [![Bima's GitHub stats](https://github-readme-stats.vercel.app/api?username=bima0302)](http://github.com/bzizmza)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/bzizmza?theme=light&font=Noto%20Sans)](https://leetcode.com/bzizmza)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/bima0302?theme=light&font=Noto%20Sans)](https://leetcode.com/bima0302)
